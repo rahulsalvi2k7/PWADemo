@@ -1,0 +1,14 @@
+{
+  "name": "pwademo",
+  "version": "1.0.0",
+  "description": "Progressive Web App Demo",
+  "main": "./index.html",
+  "scripts": {
+    "start": "http-server -c -1 -p 8081"
+  },
+  "author": "Rahul Salvi",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
